@@ -9,7 +9,7 @@ This guide will help you install the Counselling System using XAMPP on any devic
 3. MySQL 5.7 or higher
 4. Web browser (Chrome, Firefox, etc.)
 
-## Installation Steps
+## Installation Steps .
 
 ### 1. Set Up XAMPP
 
